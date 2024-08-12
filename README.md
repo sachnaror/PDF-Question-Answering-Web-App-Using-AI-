@@ -1,4 +1,4 @@
-# PDF Question Answering Web Application
+# PDF Question Answering Web App (Using AI)
 
 This is a simple web application built with Django that allows users to upload a PDF file and ask questions about its content. The application extracts text from the PDF and uses OpenAI's GPT model to generate answers based on the content.
 
