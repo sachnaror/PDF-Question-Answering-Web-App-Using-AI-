@@ -1,3 +1,7 @@
+
+<img width="586" alt="Screenshot 2024-08-12 at 11 48 33 PM" src="https://github.com/user-attachments/assets/44d37ed2-aa19-4141-9e2e-6ea7ff94424a">
+
+
 # PDF Question Answering Web App (Using AI)
 
 This is a simple web application built with Django that allows users to upload a PDF file and ask questions about its content. The application extracts text from the PDF and uses OpenAI's GPT model to generate answers based on the content.
@@ -98,9 +102,5 @@ Before you begin, ensure you have met the following requirements:
 	•	Django
 	•	PyMuPDF (fitz)
 	•	OpenAI API
-
-
-
-<img width="586" alt="Screenshot 2024-08-12 at 11 48 33 PM" src="https://github.com/user-attachments/assets/a8ede71d-cdde-4e9e-a858-fe06300707d5">
 
 
