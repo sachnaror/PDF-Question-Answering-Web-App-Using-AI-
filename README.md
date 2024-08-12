@@ -98,3 +98,10 @@ Before you begin, ensure you have met the following requirements:
 	•	Django
 	•	PyMuPDF (fitz)
 	•	OpenAI API
+
+
+9. **Screenshots**
+
+```bash
+
+<img width="586" alt="Screenshot 2024-08-12 at 11 48 33 PM" src="https://github.com/user-attachments/assets/07249204-2db4-47a0-8256-ff71f93e7ca2">
